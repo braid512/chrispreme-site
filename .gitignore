@@ -1,0 +1,4 @@
+# local-only tools, not part of the website
+serve.ps1
+.claude/
+_local/
